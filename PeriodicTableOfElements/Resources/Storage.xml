@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+  <row order="1" spacer="5">
+    <elem name="H" text="1\nH" color="#FFEA84" spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="20"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <elem name="He" text="2\nHe" color="#7CFFFF"/>
+  </row>
+  <row order="2" spacer="5">
+    <elem name="Li" text="3\nLi" color="#FF4F4F" spacer="5"/>
+    <elem name="Be" text="4\nBe" color="#FFD177" spacer="5"/>
+    <bl spacer="20"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <elem name="B"  text="5\nB"   color="#CDCEAD" spacer="5"/>
+    <elem name="C"  text="6\nC"   color="#FFEA84" spacer="5"/>
+    <elem name="N"  text="7\nN"   color="#FFEA84" spacer="5"/>
+    <elem name="O"  text="8\nO"   color="#FFEA84" spacer="5"/>
+    <elem name="F"  text="9\nF"   color="#FFEA84" spacer="5"/>
+    <elem name="Ne" text="10\nNe" color="#7CFFFF" spacer="5"/>
+  </row>
+  <row order="3" spacer="5">
+    <elem name="Na" text="11\nNa" color="#FF4F4F" spacer="5"/>
+    <elem name="Mg" text="12\nMg" color="#FFD177" spacer="5"/>
+    <bl spacer="20"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <elem name="Al" text="13\nAl" color="#A5A5A5" spacer="5"/>
+    <elem name="Si" text="14\nSi" color="#CDCEAD" spacer="5"/>
+    <elem name="P"  text="15\nP"  color="#FFEA84" spacer="5"/>
+    <elem name="S"  text="16\nS"  color="#FFEA84" spacer="5"/>
+    <elem name="Cl" text="17\nCl" color="#FFEA84" spacer="5"/>
+    <elem name="Ar" text="18\nAr" color="#7CFFFF" spacer="5"/>
+  </row>
+  <row order="4" spacer="5">
+    <elem name="K"  text="19\nK"  color="#FF4F4F" spacer="5"/>
+    <elem name="Ca" text="20\nCa" color="#FFD177" spacer="5"/>
+    <elem name="Sc" text="21\nSc" color="#E599AB" spacer="20"/>
+    <elem name="Ti" text="22\nTi" color="#E599AB" spacer="5"/>
+    <elem name="V"  text="23\nV"  color="#E599AB" spacer="5"/>
+    <elem name="Cr" text="24\nCr" color="#E599AB" spacer="5"/>
+    <elem name="Mn" text="25\nMn" color="#E599AB" spacer="5"/>
+    <elem name="Fe" text="26\nFe" color="#E599AB" spacer="5"/>
+    <elem name="Co" text="27\nCo" color="#E599AB" spacer="5"/>
+    <elem name="Ni" text="28\nNi" color="#E599AB" spacer="5"/>
+    <elem name="Cu" text="29\nCu" color="#E599AB" spacer="5"/>
+    <elem name="Zn" text="30\nZn" color="#A5A5A5" spacer="5"/>
+    <elem name="Ga" text="31\nGa" color="#A5A5A5" spacer="5"/>
+    <elem name="Ge" text="32\nGe" color="#CDCEAD" spacer="5"/>
+    <elem name="As" text="33\nAs" color="#CDCEAD" spacer="5"/>
+    <elem name="Se" text="34\nSe" color="#FFEA84" spacer="5"/>
+    <elem name="Br" text="35\nBr" color="#FFEA84" spacer="5"/>
+    <elem name="Kr" text="36\nKr" color="#7CFFFF" spacer="5"/>
+  </row>
+  <row order="5" spacer="5">
+    <elem name="Rb" text="37\nRb" color="#FF4F4F" spacer="5"/>
+    <elem name="Sr" text="38\nSr" color="#FFD177" spacer="5"/>
+    <elem name="Y"  text="39\nY"  color="#E599AB" spacer="20"/>
+    <elem name="Zr" text="40\nZr" color="#E599AB" spacer="5"/>
+    <elem name="Nb" text="41\nNb" color="#E599AB" spacer="5"/>
+    <elem name="Mo" text="42\nMo" color="#E599AB" spacer="5"/>
+    <elem name="Tc" text="43\nTc" color="#E599AB" spacer="5"/>
+    <elem name="Ru" text="44\nRu" color="#E599AB" spacer="5"/>
+    <elem name="Rh" text="45\nRh" color="#E599AB" spacer="5"/>
+    <elem name="Pd" text="46\nPd" color="#E599AB" spacer="5"/>
+    <elem name="Ag" text="47\nAg" color="#E599AB" spacer="5"/>
+    <elem name="Cd" text="48\nCd" color="#A5A5A5" spacer="5"/>
+    <elem name="In" text="49\nIn" color="#A5A5A5" spacer="5"/>
+    <elem name="Sn" text="50\nSn" color="#A5A5A5" spacer="5"/>
+    <elem name="Sb" text="51\nSb" color="#CDCEAD" spacer="5"/>
+    <elem name="Te" text="52\nTe" color="#CDCEAD" spacer="5"/>
+    <elem name="I"  text="53\nI"  color="#FFEA84" spacer="5"/>
+    <elem name="Xe" text="54\nXe" color="#7CFFFF" spacer="5"/>
+  </row>
+  <row order="6" spacer="5">
+    <elem name="Cs" text="55\nCs" color="#FF4F4F" spacer="5"/>
+    <elem name="Ba" text="56\nBa" color="#FFD177" spacer="5"/>
+    <elem name="La" text="57\nLa" color="#F4C1F4" spacer="20"/>
+    <elem name="Hf" text="72\nHf" color="#E599AB" spacer="5"/>
+    <elem name="Ta" text="73\nTa" color="#E599AB" spacer="5"/>
+    <elem name="W"  text="74\nW"  color="#E599AB" spacer="5"/>
+    <elem name="Re" text="75\nRe" color="#E599AB" spacer="5"/>
+    <elem name="Os" text="76\nOs" color="#E599AB" spacer="5"/>
+    <elem name="Ir" text="77\nIr" color="#E599AB" spacer="5"/>
+    <elem name="Pt" text="78\nPt" color="#E599AB" spacer="5"/>
+    <elem name="Au" text="79\nAu" color="#E599AB" spacer="5"/>
+    <elem name="Hg" text="80\nHg" color="#A5A5A5" spacer="5"/>
+    <elem name="Tl" text="81\nTl" color="#A5A5A5" spacer="5"/>
+    <elem name="Pb" text="82\nPb" color="#A5A5A5" spacer="5"/>
+    <elem name="Bi" text="83\nBi" color="#A5A5A5" spacer="5"/>
+    <elem name="Po" text="84\nPo" color="#A5A5A5" spacer="5"/>
+    <elem name="At" text="85\nAt" color="#CDCEAD" spacer="5"/>
+    <elem name="Rn" text="86\nRn" color="#7CFFFF" spacer="5"/>
+  </row>
+  <row order="7" spacer="20">
+    <elem name="Fr" text="87\nFr"  color="#FF4F4F" spacer="5"/>
+    <elem name="Ra" text="88\nRa"  color="#FFD177" spacer="5"/>
+    <elem name="Ac" text="89\nAc"  color="#F79BCB" spacer="20"/>
+    <elem name="Rf" text="104\nRf" color="#E599AB" spacer="5"/>
+    <elem name="Db" text="105\nDb" color="#E599AB" spacer="5"/>
+    <elem name="Sg" text="106\nSg" color="#E599AB" spacer="5"/>
+    <elem name="Bh" text="107\nBh" color="#E599AB" spacer="5"/>
+    <elem name="Hs" text="108\nHs" color="#E599AB" spacer="5"/>
+    <elem name="Mt" text="109\nMt" color="#DBDBDB" spacer="5"/>
+    <elem name="Ds" text="110\nDs" color="#DBDBDB" spacer="5"/>
+    <elem name="Rg" text="111\nRg" color="#DBDBDB" spacer="5"/>
+    <elem name="Cn" text="112\nCn" color="#A5A5A5" spacer="5"/>
+    <elem name="Nh" text="113\nNh" color="#DBDBDB" spacer="5"/>
+    <elem name="Fl" text="114\nFl" color="#DBDBDB" spacer="5"/>
+    <elem name="Mc" text="115\nMc" color="#DBDBDB" spacer="5"/>
+    <elem name="Lv" text="116\nLv" color="#DBDBDB" spacer="5"/>
+    <elem name="Ts" text="117\nTs" color="#DBDBDB" spacer="5"/>
+    <elem name="Og" text="118\nOg" color="#DBDBDB" spacer="5"/>
+  </row>
+  <row order="8" spacer="5">
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="20"/>
+    <elem name="Ce" text="58\nCe" color="#F4C1F4" spacer="5"/>
+    <elem name="Pr" text="59\nPr" color="#F4C1F4" spacer="5"/>
+    <elem name="Nd" text="60\nNd" color="#F4C1F4" spacer="5"/>
+    <elem name="Pm" text="61\nPm" color="#F4C1F4" spacer="5"/>
+    <elem name="Sm" text="62\nSm" color="#F4C1F4" spacer="5"/>
+    <elem name="Eu" text="63\nEu" color="#F4C1F4" spacer="5"/>
+    <elem name="Gd" text="64\nGd" color="#F4C1F4" spacer="5"/>
+    <elem name="Tb" text="65\nTb" color="#F4C1F4" spacer="5"/>
+    <elem name="Dy" text="66\nDy" color="#F4C1F4" spacer="5"/>
+    <elem name="Ho" text="67\nHo" color="#F4C1F4" spacer="5"/>
+    <elem name="Er" text="68\nEr" color="#F4C1F4" spacer="5"/>
+    <elem name="Tm" text="69\nTm" color="#F4C1F4" spacer="5"/>
+    <elem name="Yb" text="70\nYb" color="#F4C1F4" spacer="5"/>
+    <elem name="Lu" text="71\nLu" color="#F4C1F4" spacer="5"/>
+    <bl/>
+  </row>
+  <row order="9">
+    <bl spacer="5"/>
+    <bl spacer="5"/>
+    <bl spacer="20"/>
+    <elem name="Th" text="90\nTh"  color="#F79BCB" spacer="5"/>
+    <elem name="Pa" text="91\nPa"  color="#F79BCB" spacer="5"/>
+    <elem name="U"  text="92\nU"   color="#F79BCB" spacer="5"/>
+    <elem name="Np" text="93\nNp"  color="#F79BCB" spacer="5"/>
+    <elem name="Pu" text="94\nPu"  color="#F79BCB" spacer="5"/>
+    <elem name="Am" text="95\nAm"  color="#F79BCB" spacer="5"/>
+    <elem name="Cm" text="96\nCm"  color="#F79BCB" spacer="5"/>
+    <elem name="Bk" text="97\nBk"  color="#F79BCB" spacer="5"/>
+    <elem name="Cf" text="98\nCf"  color="#F79BCB" spacer="5"/>
+    <elem name="Es" text="99\nEs"  color="#F79BCB" spacer="5"/>
+    <elem name="Fm" text="100\nFm" color="#F79BCB" spacer="5"/>
+    <elem name="Md" text="101\nMd" color="#F79BCB" spacer="5"/>
+    <elem name="No" text="102\nNo" color="#F79BCB" spacer="5"/>
+    <elem name="Lr" text="103\nLr" color="#F79BCB" spacer="5"/>
+    <bl/>
+  </row>
+</root>
